@@ -1,0 +1,11 @@
+# Ignore
+*
+
+# Unignore
+!*.md
+!*.json
+!*.cpp
+!.*
+!*/
+
+*.dsYM
